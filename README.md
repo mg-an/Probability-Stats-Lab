@@ -1,1 +1,1 @@
-# Games-of-probability-games-of-life
+# code snippets for probability
