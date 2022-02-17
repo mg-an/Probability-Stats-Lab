@@ -1,1 +1,1 @@
-# code snippets for probability
+code snippets for probability
